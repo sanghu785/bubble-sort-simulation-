@@ -7,5 +7,6 @@ To run the file
 g++ gl.cpp -o gl -lGL -lGLU -lglut
 
 after above command object file will be created 
-the run
+then run
+
 ./a.out
